@@ -3,6 +3,6 @@
  * 不得填写 secret key、service_role key、数据库密码或一次性初始化码。
  */
 window.GROWTH_CONFIG = {
-  supabaseUrl: 'https://usdmkekhvepgyfowgsok.supabase.co/rest/v1/',
+  supabaseUrl: 'https://usdmkekhvepgyfowgsok.supabase.co',
   publishableKey: 'sb_publishable_jUBPKTTFBzYistGUMhSAdQ_A0EAVpI-'
 };
